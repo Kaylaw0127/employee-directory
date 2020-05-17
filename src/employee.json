@@ -2,8 +2,8 @@
     {
       "id": 1,
       "name": "Miranda Bailey",
-      "image": "https://s.yimg.com/uu/api/res/1.2/9AoqPnngOr6_EfW4RIRFvQ--~B/aD0xMzY3O3c9MjA0ODtzbT0xO2FwcGlkPXl0YWNoeW9u/http://media.zenfs.com/en-US/homerun/popsugar_us_649/2733d61e3f47e79ffea0acbe462fe033",
-      "title": "Cheif of Surgery"
+      "image": "https://vignette.wikia.nocookie.net/greys/images/0/03/BaileyGAS10.jpg/revision/latest/scale-to-width-down/340?cb=20130913154411",
+      "occupation": "Cheif of Surgery"
     },
     {
       "id": 2,
@@ -14,25 +14,25 @@
     {
       "id": 3,
       "name": "Alex Karev",
-      "image": "https://greysanatomycharacters.files.wordpress.com/2016/11/alex.jpg?w=536&h=804",
+      "image": "https://i.pinimg.com/originals/f3/1c/88/f31c8859ac311556b69edaaa51ece12b.jpg",
       "occupation": "Pediatric Surgeon"
     },
     {
       "id": 4,
       "name": "Derek Shepherd",
-      "image": "https://www.closerweekly.com/wp-content/uploads/2017/09/derek-shepherd-quotes.jpg?fit=3000%2C2027",
+      "image": "https://2.bp.blogspot.com/-JFd3LvW4ovE/VToo2sIMCEI/AAAAAAAADpE/zfrntM4BwbA/s1600/patrick-dempsey-05-435.jpg",
       "occupation": "Neurosurgery"
     },
     {
       "id": 5,
       "name": "Jackson Avery",
-      "image": "https://s2.r29static.com/bin/entry/2cc/720x864,85/2040491/image.webp",
+      "image": "https://pbs.twimg.com/profile_images/626829035411124224/ifUL9rSV_400x400.jpg",
       "occupation": "Plastic Surgeon"
     },
     {
       "id": 6,
       "name": "Meredith Grey",
-      "image": "https://cdn1.edgedatg.com/aws/v2/abc/GreysAnatomy/person/736607/facf3967a07b23061ebc646d0b30cb45/579x579-Q90_facf3967a07b23061ebc646d0b30cb45.jpg",
+      "image": "https://nnimgt-a.akamaihd.net/transform/v1/crop/frm/dEtJVeiv3hvihxzWfeZvyz/21b135e4-1921-472c-863e-d7c336e64f72.jpg/r0_0_2080_2997_w1200_h678_fmax.jpg",
       "occupation": "General Surgeon"
     },
     {
@@ -44,7 +44,7 @@
     {
       "id": 8,
       "name": "Maggie Pierce",
-      "image": "https://cdn1.edgedatg.com/aws/v2/abc/GreysAnatomy/person/753004/015fd8cd5114c53d8fd83ead7de0b4c1/320x180-Q90_015fd8cd5114c53d8fd83ead7de0b4c1.jpg",
+      "image": "https://pbs.twimg.com/profile_images/972978599627079680/PKW3aClU_400x400.jpg",
       "occupation": "Cardiothoracic Surgeon"
     },
     {
